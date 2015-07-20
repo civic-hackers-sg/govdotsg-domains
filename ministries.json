@@ -1,0 +1,68 @@
+{
+  "Ministries": [
+    {
+      "name": "Ministry Of Communications And Information (MCI)",
+      "href": "http://www.mci.gov.sg"
+    },
+    {
+      "name": "Ministry Of Culture, Community And Youth (MCCY)",
+      "href": "http://www.mccy.gov.sg"
+    },
+    {
+      "name": "Ministry Of Defence (MINDEF)",
+      "href": "http://www.mindef.gov.sg/"
+    },
+    {
+      "name": "Ministry Of Education (MOE)",
+      "href": "http://www.moe.gov.sg"
+    },
+    {
+      "name": "Ministry Of Finance (MOF)",
+      "href": "http://www.mof.gov.sg"
+    },
+    {
+      "name": "Ministry Of Foreign Affairs (MFA)",
+      "href": "http://www.mfa.gov.sg"
+    },
+    {
+      "name": "Ministry Of Health (MOH)",
+      "href": "http://www.moh.gov.sg"
+    },
+    {
+      "name": "Ministry Of Home Affairs (MHA)",
+      "href": "http://www.mha.gov.sg"
+    },
+    {
+      "name": "Ministry Of Law (MINLAW)",
+      "href": "http://www.mlaw.gov.sg/"
+    },
+    {
+      "name": "Ministry Of Manpower (MOM)",
+      "href": "http://www.mom.gov.sg"
+    },
+    {
+      "name": "Ministry Of National Development (MND)",
+      "href": "http://www.mnd.gov.sg"
+    },
+    {
+      "name": "Ministry Of Social And Family Development (MSF)",
+      "href": "http://www.msf.gov.sg"
+    },
+    {
+      "name": "Ministry Of The Environment And Water Resources (MEWR)",
+      "href": "http://www.mewr.gov.sg"
+    },
+    {
+      "name": "Ministry Of Trade And Industry (MTI)",
+      "href": "http://www.mti.gov.sg"
+    },
+    {
+      "name": "Ministry Of Transport (MOT)",
+      "href": "http://www.mot.gov.sg"
+    },
+    {
+      "name": "Prime Minister’s Office (PMO)",
+      "href": "http://www.pmo.gov.sg"
+    }
+  ]
+}

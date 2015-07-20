@@ -1,0 +1,40 @@
+{
+  "Organs of State": [
+    {
+      "name": "Attorney-General’s Chambers (AGC)",
+      "href": "http://www.agc.gov.sg"
+    },
+    {
+      "name": "Auditor-General’s Office (AGO)",
+      "href": "http://www.ago.gov.sg"
+    },
+    {
+      "name": "Industrial Arbitration Court (IAC)",
+      "href": "http://www.iac.gov.sg"
+    },
+    {
+      "name": "Istana (ISTANA)",
+      "href": "http://www.istana.gov.sg"
+    },
+    {
+      "name": "Judiciary, State Courts (STATE COURTS)",
+      "href": "http://www.statecourts.gov.sg"
+    },
+    {
+      "name": "Judiciary, Supreme Court (SUPCOURT)",
+      "href": "http://www.supremecourt.gov.sg"
+    },
+    {
+      "name": "Parliament Of Singapore (PARL)",
+      "href": "http://www.parliament.gov.sg"
+    },
+    {
+      "name": "Public Service Commission (PSC)",
+      "href": "http://www.psc.gov.sg"
+    },
+    {
+      "name": "The Cabinet (CAB)",
+      "href": "http://www.cabinet.gov.sg"
+    }
+  ]
+}
